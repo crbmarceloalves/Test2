@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test de lien "mailto"</title>
+</head>
+<body>
+    <p>Cliquez sur le lien ci-dessous pour envoyer un mail :</p>
+    <a href="mailto:?subject=Inscription%20à%20la%20formation%20:%20INSCRIRE%20ICI%20LE%20NOM%20DE%20LA%20FORMATION&body=Veuillez%20introduire%20vos%20informations%20ci-dessous%20:%0D%0A%0D%0A-Nom%20:%20%0D%0A-Prénom%20:%20%0D%0A-Formation%20:%20%0D%0A-Date%20de%20la%20formation%20:%20%0D%0A%0D%0AMerci%20pour%20ces%20informations,%20bien%20à%20vous,%20infoformation">Inscription à la formation</a>
+</body>
+</html>
